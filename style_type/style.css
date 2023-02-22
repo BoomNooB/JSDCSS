@@ -1,12 +1,14 @@
-​
-  
-    p {
-        font-style: italic;
-    }
-    div, p, span{ font-size: 12pt;}
-    
-    
-    span{
-        background-color: wheat;
-        font-weight: bold;
-    }
+p {
+    font-style: italic;
+}
+div, p, span{ font-size: 12pt;}
+
+
+span{
+    background-color: wheat;
+    font-weight: bold;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+  }
